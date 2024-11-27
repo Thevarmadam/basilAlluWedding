@@ -586,6 +586,8 @@ body {
 
 .venue {
 	background: linear-gradient(135deg, #343434, #343434);
+	align-self: center;
+	opacity: 50%;
 	border-radius: 12px;
 	color: white;
 	padding: 12px 24px;
