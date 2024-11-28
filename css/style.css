@@ -674,7 +674,7 @@ body {
 }
 
 	.venue:hover {
-		background: linear-gradient(135deg, #343434, #343434);
+		background:  #F7CFE1;
 		transform: translateY(-5px);
 	}
 
